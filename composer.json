@@ -1,5 +1,5 @@
 {
-  "name": "symfony/zepto",
+  "name": "myparkfolio/zepto",
   "description": "Shim repository for the Zepto.js JavaScript library.",
   "type": "library",
   "keywords": [
