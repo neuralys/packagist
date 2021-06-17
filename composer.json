@@ -1,0 +1,16 @@
+{
+  "name": "toto/zepto",
+  "description": "Shim repository for the Zepto.js JavaScript library.",
+  "type": "library",
+  "keywords": [
+    "JavaScript"
+  ],
+  "homepage": "http://zeptojs.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Fuchs",
+      "homepage": "https://github.com/madrobby"
+    }
+  ]
+}
